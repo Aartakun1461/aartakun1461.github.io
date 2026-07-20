@@ -16,3 +16,8 @@ Hi, my name is Morgana Mo Zhou (周末). I am a second-year PhD student in Compu
 - **Signal Intelligence and Edge ML** — signal representation, RF hardware fingerprinting, lightweight on-device learning
 
 Feel free to reach out, I'm always happy to discuss research or explore potential collaborations.
+
+## Selected Publications
+
+- **[UWB Physical Layer Key Sharing Using the Frequency Domain CIR Magnitude](https://doi.org/10.1109/TII.2025.3526320)** — Dutliff Boshoff, **Morgana Mo Zhou**, Raphael E. Nkrow, Bruno Silva, and Gerhard P. Hancke. *IEEE Transactions on Industrial Informatics*, 2025.
+- **[Security Analysis and Evaluation of Denial of Service Attack in LoRaWAN-Driven Automation](https://doi.org/10.1109/INDIN58382.2024.10774342)** — **Morgana Mo Zhou**, Zhifu Zhang, Yucheng Liu, and Gerhard Petrus Hancke. *Proceedings - 2024 IEEE 22nd International Conference on Industrial Informatics (INDIN)*, 2024. Best Student Paper Award.
